@@ -13,7 +13,7 @@ A lightweight platform enables teams on the platform to both find and access dat
 
 * Event Streaming Technology
 * Data Storage in various forms
-* Data Catalogue to help find and data
+* Data Catalogue to help find the data
 * ML and Data Engineer tooling (e.g. Spark, other cloud-native Data-services)
 * Common libraries or templates to speed up the process of experimentation
 * Data Lineage tooling
